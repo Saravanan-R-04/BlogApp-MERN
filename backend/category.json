@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Web Development",
+    "slug": "web-development",
+    "description": "Everything related to building websites and web apps."
+  },
+  {
+    "name": "JavaScript",
+    "slug": "javascript",
+    "description": "All about JavaScript, ES6+, and the ecosystem."
+  },
+  {
+    "name": "Node.js",
+    "slug": "nodejs",
+    "description": "Server-side JavaScript with Node.js."
+  },
+  {
+    "name": "React",
+    "slug": "react",
+    "description": "Frontend development with React library."
+  },
+  {
+    "name": "MongoDB",
+    "slug": "mongodb",
+    "description": "NoSQL database for modern applications."
+  },
+  {
+    "name": "Express.js",
+    "slug": "express-js",
+    "description": "Minimal web framework for Node.js."
+  },
+  {
+    "name": "API Development",
+    "slug": "api-development",
+    "description": "Creating RESTful and GraphQL APIs."
+  },
+  {
+    "name": "CSS & Design",
+    "slug": "css-design",
+    "description": "UI design and styling with CSS, Flexbox, and Grid."
+  },
+  {
+    "name": "DevOps",
+    "slug": "devops",
+    "description": "CI/CD, deployment, hosting, and infrastructure."
+  },
+  {
+    "name": "Full Stack",
+    "slug": "full-stack",
+    "description": "Building complete applications with frontend and backend."
+  }
+]

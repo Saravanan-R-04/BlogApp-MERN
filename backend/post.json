@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Introduction to React",
+    "content": "React is a JavaScript library for building user interfaces.",
+    "category": "Web Development",
+    "author": "John Doe",
+    "image": "https://placehold.co/200x150?text=React"
+  },
+  {
+    "title": "Understanding Node.js",
+    "content": "Node.js allows JavaScript to run on the server.",
+    "category": "Backend",
+    "author": "Jane Smith",
+    "image": "https://placehold.co/200x150?text=Node.js"
+  },
+  {
+    "title": "CSS Flexbox Basics",
+    "content": "Flexbox is a layout mode in CSS3 for aligning elements.",
+    "category": "Web Design",
+    "author": "Alex Johnson",
+    "image": "https://placehold.co/200x150?text=Flexbox"
+  },
+  {
+    "title": "MongoDB for Beginners",
+    "content": "MongoDB is a NoSQL database used in many MERN apps.",
+    "category": "Database",
+    "author": "Priya Verma",
+    "image": "https://placehold.co/200x150?text=MongoDB"
+  },
+  {
+    "title": "How to Build a REST API",
+    "content": "A REST API lets you interact with your backend over HTTP.",
+    "category": "API",
+    "author": "Ravi Kumar",
+    "image": "https://placehold.co/200x150?text=REST+API"
+  },
+  {
+    "title": "JavaScript ES6 Features",
+    "content": "ES6 introduced let, const, arrow functions, and more.",
+    "category": "JavaScript",
+    "author": "Emily White",
+    "image": "https://placehold.co/200x150?text=ES6"
+  },
+  {
+    "title": "What is Express.js?",
+    "content": "Express is a fast Node.js web framework.",
+    "category": "Backend",
+    "author": "Mohammed Ali",
+    "image": "https://placehold.co/200x150?text=Express.js"
+  },
+  {
+    "title": "Async/Await in JavaScript",
+    "content": "Async/await helps you write cleaner asynchronous code.",
+    "category": "JavaScript",
+    "author": "Sonal Mehta",
+    "image": "https://placehold.co/200x150?text=Async%2FAwait"
+  },
+  {
+    "title": "Responsive Design Tips",
+    "content": "Make your website work on all screen sizes.",
+    "category": "Web Design",
+    "author": "Kevin Lee",
+    "image": "https://placehold.co/200x150?text=Responsive"
+  },
+  {
+    "title": "Deploying with Netlify",
+    "content": "Netlify is an easy way to host static websites.",
+    "category": "DevOps",
+    "author": "Nikita Shah",
+    "image": "https://placehold.co/200x150?text=Netlify"
+  }
+]
